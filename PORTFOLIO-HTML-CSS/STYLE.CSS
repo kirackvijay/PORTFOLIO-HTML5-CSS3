@@ -1,0 +1,20 @@
+.click{
+    background-color: rgb(241, 8, 230);
+}
+.tb{
+    BORDER:2PX SOLID rgb(6, 39, 6);
+}
+BODY{
+    BACKGROUND-COLOR:rgb(0, 238, 255)
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif,cursive;
+    font-weight:700;
+    font-style:normal;
+}
+TABLE{
+    BORDER:2PX SOLID rgb(6, 39, 6);
+}
+.HOBY{
+    BACKGROUND-COLOR:rgb(6, 250, 6);
+}
